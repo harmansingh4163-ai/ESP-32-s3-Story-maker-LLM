@@ -1,0 +1,3 @@
+Delete this file. Put your board photo in the repo root as photo.jpg
+(the README references it). A clear shot of both boards + the three wires
++ the screw terminal is the single highest-value file in this repo.

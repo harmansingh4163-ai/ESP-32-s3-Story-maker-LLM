@@ -1,0 +1,9 @@
+# model binaries are downloaded/generated, never committed
+*.bin
+# python cruft
+__pycache__/
+*.pyc
+# local build/test artifacts
+test_host
+test_pipeline
+test_link
